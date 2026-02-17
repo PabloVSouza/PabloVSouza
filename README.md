@@ -1,137 +1,116 @@
-::: {align="center"}
+<div align="center">
+
 # 🧠 Pablo Souza
+### ⚡ Full Stack • TypeScript • Electron • Tauri • AI Systems • Product Builder
 
-### ⚡ Full Stack • Rust • Tauri • AI Systems • Product Builder
+Building real-world software, automation tools and production-grade apps.  
+10+ years shipping complete systems — from backend to desktop and UI.
 
-```{=html}
-<p>
-```
-Building real-world software, automation tools and high-performance
-apps.`<br/>`{=html} 10+ years shipping production systems --- not just
-prototypes.
-```{=html}
-</p>
-```
-`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=TypeScript+%2B+Rust+Developer;Tauri+Desktop+Apps;AI+Agents+%26+Automation;Fullstack+Systems+Architect" />`{=html}
-:::
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Electron+%2B+TypeScript+Specialist;Desktop+Apps+%26+Automation+Tools;AI+Agents+%26+Scalable+Systems" />
 
-------------------------------------------------------------------------
+</div>
+
+---
 
 ## 🚀 About Me
+I'm a product-focused full stack developer who builds complete, real-world software — not just interfaces.
 
-I'm a systems-focused full stack developer who loves building complete
-products --- from backend logic and databases to desktop apps and
-polished UIs.
+My main strength is designing and shipping full systems that include:
+- 🖥️ Desktop applications (Electron & Tauri)
+- 🌐 Web platforms (Next.js, React)
+- 🗄️ APIs & databases
+- 🤖 Automation workflows & AI tooling
+- 🧠 Production-grade business systems
 
-Currently focused on: - 🦀 Rust + Tauri (high-performance desktop
-apps) - ⚡ TypeScript ecosystems (Next.js, React, APIs) - 🤖 AI Agents &
-automation workflows (AWS, data pipelines) - 🧱 Scalable fullstack
-architectures - 📴 Offline-first and production-ready software
+Most of my real-world work revolves around TypeScript, Electron, fullstack architectures and automation-heavy applications.
 
-I specialize in building real tools used by real businesses, especially
-automation-heavy and data-driven systems.
-
-------------------------------------------------------------------------
+---
 
 ## 🛠️ Core Tech Stack
 
-### 🧠 Languages
-
-```{=html}
-<p align="left">
-```
-`<img src="https://skillicons.dev/icons?i=ts,js,rust" />`{=html}
-```{=html}
+### 🧠 Main Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js" />
 </p>
-```
+
+### 🖥️ Desktop Development (Primary Focus)
+<p>
+  <img src="https://skillicons.dev/icons?i=electron,tauri,nodejs" />
+</p>
+
+- Electron (primary production desktop stack)
+- Tauri (lightweight cross-platform apps)
+- Native integrations & offline-first tooling
+
 ### 🌐 Frontend & Fullstack
-
-```{=html}
-<p align="left">
-```
-`<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite" />`{=html}
-```{=html}
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite" />
 </p>
-```
-### 🖥️ Desktop & Backend
 
-```{=html}
-<p align="left">
-```
-`<img src="https://skillicons.dev/icons?i=tauri,nodejs,sqlite,mysql" />`{=html}
-```{=html}
+### 🗄️ Backend, Data & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,aws,docker" />
 </p>
-```
-### ☁️ Cloud, Data & AI
 
-```{=html}
-<p align="left">
-```
-`<img src="https://skillicons.dev/icons?i=aws,docker" />`{=html}
-```{=html}
-</p>
-```
--   AWS (Bedrock, Redshift, S3)
--   AI Agents & Tooling Automation
--   SQL-heavy systems & complex data modeling
--   Offline-first architectures
--   Cross-platform desktop tooling
+- REST APIs & automation backends  
+- SQL-heavy systems & complex data modeling  
+- AWS (Bedrock, S3, data workflows)  
+- Offline-first and local-first architectures  
 
-------------------------------------------------------------------------
+---
 
-## 🧩 What I Build
+## 🧩 What I Actually Build
+- 🖥️ Desktop apps with Electron (primary) and Tauri  
+- 🌐 Fullstack platforms (Next.js + APIs)  
+- 🤖 AI agents & automation systems  
+- 🧾 Business and enterprise software  
+- 📦 Internal tools, CLIs and productivity systems  
+- ⚡ Performance-focused production applications  
 
--   🖥️ Cross-platform desktop apps with Tauri 2 + Rust
--   🌐 Fullstack web platforms (Next.js + APIs)
--   🤖 AI-powered internal tools & automation systems
--   🧾 Business & fiscal software (automation, compliance, workflows)
--   📦 CLI tools and developer tooling
--   🎯 Experimental products and custom platforms
+Most of my projects are used in real business environments and automation-heavy workflows.
 
-------------------------------------------------------------------------
+---
 
 ## ⚙️ Current Focus (2026)
-
-``` txt
-→ High-performance apps with Rust + Tauri
-→ AI agent orchestration & automation
-→ Scalable fullstack systems (Next.js + TypeScript)
-→ Performance, DX and maintainable architectures
+```
+→ Advanced Electron + TypeScript desktop apps
+→ Tauri for cross-platform tooling
+→ AI agent orchestration & automation systems
+→ Scalable fullstack architectures (Next.js + APIs)
+→ Clean architecture & long-term maintainability
 ```
 
-------------------------------------------------------------------------
+---
 
-## 📊 GitHub Analytics (Dark Mode)
-
-```{=html}
+## 📊 GitHub Activity
 <p align="center">
-```
-`<img height="165" src="https://github-readme-stats.vercel.app/api?username=pablovsouza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />`{=html}
-`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablovsouza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />`{=html}
-```{=html}
+  <img src="https://streak-stats.demolab.com?user=pablovsouza&theme=github-dark&hide_border=true" />
 </p>
-```
 
-------------------------------------------------------------------------
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pablovsouza&theme=github-dark&hide_border=true" />
+</p>
+
+---
 
 ## 🧠 Developer Mindset
+> Build real tools for real problems.  
+> Prefer owning the stack over relying on SaaS.  
+> Focus on performance, automation and scalability.  
+> Ship complete products — not just code.
 
-> Build tools that solve real problems.\
-> Automate everything that can be automated.\
-> Optimize for performance and longevity.\
-> Ship products --- not just code.
-
-------------------------------------------------------------------------
+---
 
 ## 🧪 Fun Side
+- 🎸 Guitar player & creative builder  
+- 🛠️ Strong indie builder mindset  
+- 🧠 Always experimenting with new architectures and tooling  
+- 🍎 Heavy Apple + dev ecosystem user  
 
--   🎸 Guitar player & creative builder
--   🛠️ Love creating my own tools instead of relying on SaaS
--   🧠 Always experimenting with new architectures and stacks
--   🍎 Heavy Apple + dev ecosystem user
+---
 
-------------------------------------------------------------------------
+<div align="center">
 
-::: {align="center"}
-### 🌑 Dark mode. High performance. Real systems.
-:::
+### Desktop apps • Real systems
+
+</div>
